@@ -1,10 +1,14 @@
-# 🔭 About Me
+# 👋 Welcome to my Profile!
 
-Interested in working on software and web development!
+Interested in working on software and web development, striving to be a better Software Developer.
+
+The tech stack I'm currently learning are NestJS and MongoDB.
+
+The skills I'm currently improving on are UI/UX in applications and CI/CD in collaborations.
 
 The project I'm currently working on is called FitTrack.
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +32,7 @@ The project I'm currently working on is called FitTrack.
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📫 My Socials
+## 📫 How to reach me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:capinpinjerome5@gmail.com)
