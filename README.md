@@ -1,6 +1,15 @@
-<h1 align="center">👋 Welcome to my Profile!</h1>
+<h1 align="center">Welcome to my Profile!</h1>
 
->A frontend engineer interested in software development, focused on developing high-performance and highly accessible applications.
+<p align="center">A frontend engineer interested in software development, focused on developing high-performance and highly accessible applications.</p>
+
+<h3 align="center">My Socials</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jerome-capinpin-396900420/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <p>*(Portfolio TBA)*</p>
+</div>
 
 ---
 
@@ -14,12 +23,6 @@
 - **Frameworks:** Flutter and Nest.js
 - **UI/UX Designing:** Figma Prototyping
 - **DevOps:** CI/CD and GitHub Team Workflows
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:capinpinjerome5@gmail.com)
-*(Portfolio TBA)*
 
 ---
 
@@ -54,3 +57,5 @@
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
