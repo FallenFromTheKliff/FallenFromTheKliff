@@ -4,9 +4,9 @@
 
 # Welcome to my Profile!
 
-Hi! I'm an undergraduate student on the path to becoming a fully-fledged Software Developer with focus towards developing high-performance yet highly accessible web and mobile applications. The tech I like to use most are involved in frontend engineering such as React.js, JavaScript/TypeScript, and CSS (with Tailwind), but I am open to expanding my knowledge and skillset.
+Hi! I am an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(with Tailwind)*, MySQL, and NestJS.
 
-No other reason why I like frontend engineering more, it's just more enjoyable!
+I prefer being on the frontend development because I want to create memorable user experiences!
 
 ### My Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
@@ -30,8 +30,9 @@ No other reason why I like frontend engineering more, it's just more enjoyable!
 ### 🛠️ My Tech Stack
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
