@@ -1,27 +1,24 @@
-<h1 align="center">Welcome to my Profile!</h1>
-
 <p align="center">
   <img src="./assets/profile-banner.png" alt="banner" width="100%" />
 </p>
 
-<p align="center">A frontend engineer interested in software development, focused on developing high-performance and highly accessible applications.</p>
+# Welcome to my Profile!
 
-<h3 align="center">My Socials</h3>
+Hi! I'm an undergraduate student on the path to becoming a fully-fledged Software Developer with focus towards developing high-performance yet highly accessible web and mobile applications. The tech I like to use most are involved in frontend engineering such as React.js, JavaScript/TypeScript, and CSS (with Tailwind), but I am open to expanding my knowledge and skillset.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jerome-capinpin-396900420/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <p>*(Portfolio TBA)*</p>
-</div>
+No other reason why I like frontend engineering more, it's just more enjoyable!
+
+### My Contacts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
+*(Portfolio TBA)*
 
 ---
 
-### 🚀 On-going Project(s)
+### 🚀 Project(s) that I am currently working on
 (2025 - Present)
 - **FitTrack:** A Management Information System With Performance Analytics
 
-### 💻 Currently Learning/Refining
+### 💻 Skills that I am currently learning/refining
 
 - **Languages:** Dart
 - **Frameworks:** Flutter and Nest.js
