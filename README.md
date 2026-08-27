@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to my Profile!</h1>
 
+<!-- <p align="center">
+  <img src="./assets/readme-banner.png" alt="banner" width="100%" />
+</p> -->
+
 <p align="center">A frontend engineer interested in software development, focused on developing high-performance and highly accessible applications.</p>
 
 <h3 align="center">My Socials</h3>
