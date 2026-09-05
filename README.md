@@ -4,19 +4,19 @@
 
 # Welcome to my Profile!
 
-Hi! I am an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(with Tailwind)*, MySQL, and NestJS.
+Hi! I'm an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(or Tailwind)*, PostgreSQL, and NestJS.
 
 I prefer being on the frontend development because I want to create memorable user experiences!
 
-### My Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
+### 📫 Connect with me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
 *(Portfolio TBA)*
 
 ---
 
 ### 🚀 Project(s) that I am currently working on
-(2025 - Present)
-- **FitTrack:** A Management Information System With Performance Analytics
+(March 2026 - Present)
+- **FitTrack:** Management Information System With Performance Analytics
 
 ### 💻 Skills that I am currently learning/refining
 
@@ -35,6 +35,7 @@ I prefer being on the frontend development because I want to create memorable us
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### Frontend and Mobile Development
@@ -49,11 +50,15 @@ I prefer being on the frontend development because I want to create memorable us
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Tools and Deployment
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
