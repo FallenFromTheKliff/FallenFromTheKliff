@@ -4,9 +4,9 @@
 
 # Welcome to my Profile!
 
-Hi! I'm an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(or Tailwind)*, PostgreSQL, and NestJS.
+Hi! I'm an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(preferably Tailwind)*, PostgreSQL, and NestJS.
 
-I prefer being on the frontend development because I want to create memorable user experiences!
+I like taking part in frontend development because I want to create memorable user experiences!
 
 ### 📫 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
@@ -14,8 +14,8 @@ I prefer being on the frontend development because I want to create memorable us
 
 ---
 
-### 🚀 Project(s) that I am currently working on
-(March 2026 - Present)
+### 🚀 Project(s) that I recently worked on
+(February 2026 - September 2026)
 - **FitTrack:** Management Information System With Performance Analytics
 
 ### 💻 Skills that I am currently learning/refining
