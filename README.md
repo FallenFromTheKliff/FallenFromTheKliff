@@ -16,7 +16,9 @@ I like taking part in frontend development because I want to create memorable us
 
 ### 🚀 Project(s) that I recently worked on
 (February 2026 - September 2026)
-- **FitTrack:** Management Information System With Performance Analytics
+- **FitTrack**
+  - **WEB** | Management Information System With Performance Analytics
+  - **MOBILE** | Fitness Engagement Application with Workout Tracking and Session Booking
 
 ### 💻 Skills that I am currently learning/refining
 
