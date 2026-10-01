@@ -6,26 +6,20 @@
 
 Hi! I'm an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are React, TypeScript, CSS *(preferably Tailwind)*, PostgreSQL, and NestJS.
 
-I like taking part in frontend development because I want to create memorable user experiences!
+If I had to choose, my favorite part of development has to be creating memorable user experiences!
+
+---
+
+### 💻 Skills that I am currently refining
+
+- **Languages:** Dart and Vue
+- **Frameworks:** Flutter and Nest.js
+- **UI/UX Designing:** Figma Prototyping
+- **DevOps:** CI/CD and GitHub Team Workflows
 
 ### 📫 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
 *(Portfolio TBA)*
-
----
-
-### 🚀 Project(s) that I recently worked on
-(February 2026 - September 2026)
-- **FitTrack**
-  - **WEB** | Management Information System With Performance Analytics
-  - **MOBILE** | Fitness Engagement Application with Workout Tracking and Session Booking
-
-### 💻 Skills that I am currently learning/refining
-
-- **Languages:** Dart
-- **Frameworks:** Flutter and Nest.js
-- **UI/UX Designing:** Figma Prototyping
-- **DevOps:** CI/CD and GitHub Team Workflows
 
 ---
 
