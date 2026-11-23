@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="banner" width="100%" />
+  <img src="./assets/github-banner.png" alt="banner" width="100%" />
 </p>
 
-# Welcome to my Profile!
+# Welcome to my profile!
 
-Hi! I'm an undergraduate student and software developer, interested in developing high-performance and highly accessible web and mobile applications. The tools I like to use often for full stack development are TypeScript, React *(or Next.js for larger projects)*, CSS *(preferably Tailwind)*, NestJS, and PostgreSQL.
+I'm a **Software Developer** interested in developing well-rounded and highly accessible web and mobile applications. My preferred tools for full stack development include **TypeScript**, **React** *(or **Next.js** for larger projects)*, **CSS** *(particularly **Tailwind CSS**)*, **NestJS**, and **PostgreSQL**.
 
-If I had to choose, my favorite part of development has to be creating memorable user experiences!
+My favorite part about development is creating memorable user experiences!
 
 ---
 
-### 💻 Skills that I am currently refining
+### 💻 Skills I'm currently refining
 
 - **Languages:** Dart
-- **Frameworks:** Vue and Flutter
+- **Frameworks & UI:** Vue and Flutter
 - **UI/UX Design:** Figma and Prototyping
 - **DevOps:** CI/CD and GitHub Actions
 
 ### 📫 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
-*(Portfolio TBA)*
 
 ---
 
@@ -31,11 +30,11 @@ If I had to choose, my favorite part of development has to be creating memorable
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Frontend and Mobile Development
+#### Frontend & Mobile Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -45,7 +44,7 @@ If I had to choose, my favorite part of development has to be creating memorable
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Backend and Databases
+#### Backend, ORM & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -56,7 +55,7 @@ If I had to choose, my favorite part of development has to be creating memorable
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Tools and Deployment
+#### Tools & Platforms
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
