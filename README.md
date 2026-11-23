@@ -19,6 +19,7 @@ My favorite part about development is creating memorable user experiences!
 
 ### 📫 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://www.linkedin.com/in/jerome-capinpin-396900420/)
+[![JersPortfolio](https://img.shields.io/badge/JersPortfolio-101D55?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://jerome-capinpin.vercel.app/)
 
 ---
 
